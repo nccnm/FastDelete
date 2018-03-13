@@ -1,0 +1,7 @@
+C:\Users\nthai\Documents\Visual Studio 2017\Projects\FastDelete\FastDelete\bin\Debug\FastDelete.exe.config
+C:\Users\nthai\Documents\Visual Studio 2017\Projects\FastDelete\FastDelete\bin\Debug\FastDelete.exe
+C:\Users\nthai\Documents\Visual Studio 2017\Projects\FastDelete\FastDelete\bin\Debug\FastDelete.pdb
+C:\Users\nthai\Documents\Visual Studio 2017\Projects\FastDelete\FastDelete\obj\Debug\FastDelete.csprojResolveAssemblyReference.cache
+C:\Users\nthai\Documents\Visual Studio 2017\Projects\FastDelete\FastDelete\obj\Debug\FastDelete.csproj.CoreCompileInputs.cache
+C:\Users\nthai\Documents\Visual Studio 2017\Projects\FastDelete\FastDelete\obj\Debug\FastDelete.exe
+C:\Users\nthai\Documents\Visual Studio 2017\Projects\FastDelete\FastDelete\obj\Debug\FastDelete.pdb
